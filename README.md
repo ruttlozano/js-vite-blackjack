@@ -1,4 +1,4 @@
-# BlackJack Vite
+# BlackJack Vite en mi rama rut/lozano
 
 Pasos para ejecutar proyecto:
 
